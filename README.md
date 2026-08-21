@@ -1,4 +1,4 @@
-# healthcare-application
+#  Protea healthcare-application
 
 ## Users 
 Doctors / Patients / pharmarcists
