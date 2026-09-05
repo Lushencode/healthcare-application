@@ -39,7 +39,7 @@ public class Splash extends AppCompatActivity {
                             R.anim.splash_animation
                     );
 
-            ProteaHealth.startAnimation(textAnimation);
+            appName.startAnimation(textAnimation);
             tagline.startAnimation(textAnimation);
 
         }, 400);
