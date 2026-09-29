@@ -1,4 +1,4 @@
-package com.example.proteahealth;
+package com.proteahealth.app;
 
 import android.Manifest;
 import android.app.Activity;
