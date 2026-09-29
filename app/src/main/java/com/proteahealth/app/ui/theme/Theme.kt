@@ -55,3 +55,23 @@ fun Health1Theme(
         content = content
     )
 }
+
+private val DarkColorScheme = darkColorScheme(
+    primary = SecondaryTeal,
+    secondary = PrimaryTeal,
+    tertiary = AccentOrange,
+    background = DarkBackground,
+    surface = DarkBackground
+)
+
+// Light Mode Palette
+private val LightColorScheme = lightColorScheme(
+    primary = PrimaryTeal,
+    secondary = SecondaryTeal,
+    tertiary = AccentOrange,
+    background = LightBackground,
+    surface = CardBackgroundLight,
+    onPrimary = CardBackgroundLight,
+    onBackground = TextDark,
+    onSurface = TextDark
+)
