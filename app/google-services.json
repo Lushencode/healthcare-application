@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442968786967",
+    "project_id": "protea-health",
+    "storage_bucket": "protea-health.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442968786967:android:ca231f9245adff3e5af452",
+        "android_client_info": {
+          "package_name": "com.proteahealth.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442968786967-6cgnscipdo9qtcmmimv5qe65jfnjmq6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proteahealth.app",
+            "certificate_hash": "75d5b86b3079d30823c58a1d5fc0ed3f2be4ee76"
+          }
+        },
+        {
+          "client_id": "442968786967-1dfpdbi8f1s63t6qvjjj3lqh96h3mq26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmbzH7f70uw4ezpgXi3Msog9BgWx63ahQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442968786967-1dfpdbi8f1s63t6qvjjj3lqh96h3mq26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
