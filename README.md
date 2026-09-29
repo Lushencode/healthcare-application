@@ -1,8 +1,5 @@
 #  Protea healthcare-application
 
-## Forms 
-Splash Screen ✔️
-
 ## Users 
 Doctors / Patients / Pharmacists
 
